@@ -1,7 +1,6 @@
 {
     "name": "rfid",
     "description": "Easy tag manager for RFID reader",
-    "preferGlobal": "false",
     "version": "1.0.0",
     "author": {
         "name": "Marcello Gesmundo",
